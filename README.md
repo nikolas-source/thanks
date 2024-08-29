@@ -8,7 +8,6 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/nikolas-source/thanks/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" height="25" alt="commit activity"/></a>
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
 </div>
 
