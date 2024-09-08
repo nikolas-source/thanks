@@ -2,7 +2,6 @@
     import filestuff from './features/filestuff';
     import editing from './features/terminal';
     import localhost from './features/localhost';
-    import chatgpt from './features/chatgpt';
 </script>
 <head>
 <script src="https://kit.fontawesome.com/6da05088cf.js" crossorigin="anonymous"></script>

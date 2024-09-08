@@ -14,7 +14,9 @@
 </div>
 
 <style>
-	
+	.app {
+	overflow-y: hidden;
+	}
 </style>
 
 
