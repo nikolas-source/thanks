@@ -1,15 +1,11 @@
 
-<p>ITS NOT FINISHED YET !!!!11  </p>
+<p>(Not finished yet)  </p>
 
 <div align="center">
   <img height="250" src="https://i.ibb.co/YZjPPYg/thanks-ai-brush-removebg-cwsa5svo.png"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
-</div>
 
 ###
 
