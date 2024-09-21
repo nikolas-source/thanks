@@ -39,7 +39,7 @@
 </script>
 
 <nav class="h-screen left-0 w-64 bg-gray-800 p-4 relative" id="resizable">
-    <div class="w-[10px] h-screen bg-gray-600 absolute right-0 top-0 cursor-ew-resize" id="handle"></div>
+    <div class="w-[10px] h-screen bg-gray-800 absolute right-0 top-0 cursor-ew-resize" id="handle"></div>
 </nav>
 
 <style class="postcss"></style>
